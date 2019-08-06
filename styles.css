@@ -1,0 +1,43 @@
+h1{
+	  text-decoration: underline overline dotted blue;
+}
+h2 {
+  text-decoration: underline;
+  font-size: 18px;
+}
+#convert {
+  background-color: #008CBA; 
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+}
+#clear {
+  background-color: #008CBA; 
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+}
+p {
+	text-align: justify;
+	font-size: 18px;
+}
+input, textarea {
+  background-color : #d1d1d1;
+  font-size: 16px;
+}
+#toC ,#toF ,#toK ,#toG, #toM {
+  top: 0;
+  left: 0;
+  height: 16px;
+  width: 16px;
+  background-color: #eee;
+  border-radius: 50%;
+}
